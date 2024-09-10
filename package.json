@@ -14,5 +14,12 @@
       "Sketchfab",
       "Asset Store"
     ],
+    "samples": [
+        {
+          "displayName": "Flying Island Demo Scene",
+          "description": "A demo scene to showcase the flying island environment for the XR drone game.",
+          "path": "Scenes/Demo"
+        }
+      ],
     "license": "Beerware"
   }
