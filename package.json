@@ -1,6 +1,6 @@
 {
     "name": "be.elab.flyingisland",
-    "title": "Flying Island",
+    "displayName": "Flying Island XR",
     "version": "1.0.0",
     "description": "A small demo showcasing a flying island environment using Sketchfab, Unity Asset Store, and ProBuilder for a drone game in XR. This project is designed for experimentation and prototyping in immersive drone simulations.",
     "author": {
